@@ -1,0 +1,6 @@
+.inputbox{
+    width: 25rem;
+    height: 2rem;
+    display: flex;
+    margin: auto;
+}
